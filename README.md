@@ -2,7 +2,12 @@
 ### Phishing Detection & Cybersecurity Investigation Platform
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0a14,50:4c1d95,100:7c3aed&height=230&section=header&text=PHISHGUARD%20PRO&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Phishing%20Detection%20%26%20Security%20Analysis&descAlignY=60&descSize=16" width="100%" alt="PhishGuard Pro Banner"/>
+  <img src="https://img.shields.io/badge/🛡️_PHISHGUARD_PRO-Phishing_Detection_%26_Security_Analysis-4c1d95?style=for-the-badge&labelColor=0d0a14"
+       alt="PhishGuard Pro Banner"/>
+</p>
+
+<p align="center">
+  <strong>DETECT • ANALYZE • PROTECT</strong>
 </p>
 
 <p align="center">
